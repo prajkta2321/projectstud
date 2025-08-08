@@ -61,7 +61,7 @@ HTTP Client: Fetch API
 
 For any questions or feedback, feel free to reach out:
 
-Your Name : Prajkta Prabhakar More , Pornima Kavade
+Your Name : Prajkta More , Pornima Kavade
 
 Email: prajktamore63@gmail.com
 

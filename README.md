@@ -4,6 +4,7 @@ A modern full-stack **Student Management System** built using **Java Spring Boot
 ## 📂 Project Structure
 
 StudentManagementSystem/
+
 │
 ├── backend/
 

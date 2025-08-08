@@ -72,9 +72,13 @@ GitHub link : https://github.com/prajkta2321/projectstud.git
 
 # 🖼️ Screenshots
 
+# 🏠 Home Page
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf27153e-1c3d-48bd-b8a2-e35db5f5f29c" />
+# 📋 Register Students
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9900200e-3589-4ea9-b087-37f86d69abf8" />
+# 📑 View All Students
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1dfb4fe4-2156-4439-9fad-6db74c66276d" />
+# 🗑️ Delete Student
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c2111aa9-090d-43fd-9fa8-86de9c753317" />
 
 

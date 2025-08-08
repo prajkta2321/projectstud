@@ -20,9 +20,6 @@ Update existing student information based on Student ID.
 
 Remove student records securely by ID.
 
-# 🚀 Live UI Demo
-🔗 Live GitHub Hosted Link:http://127.0.0.1:5500/student/index.html
-
 # 🧠 Technologies Used
 Backend: Spring Boot, Java
 Frontend: HTML, CSS, JavaScript (Vanilla)
@@ -43,9 +40,13 @@ Update existing student information based on Student ID.
 Remove student records securely by ID.
 
 # 🧠 Technologies Used
+
 Backend: Spring Boot, Java
-Frontend: HTML, CSS, JavaScript (Vanilla)
+
+Frontend: HTML, CSS, JavaScript
+
 Data Format: JSON
+
 HTTP Client: Fetch API
 
 # 🖼️ Screenshots

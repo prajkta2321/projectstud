@@ -1,43 +1,56 @@
-# 🎓Student Management System
+# 🎓 Student Management System
+
+A modern full-stack **Student Management System** built using **Java Spring Boot (backend)** and **HTML/CSS/JS (frontend)**. Easily manage student records — register, update, view, and delete — in a responsive interface.
+## 📂 Project Structure
+
+StudentManagementSystem/
+│
+├── backend/
+
+│ ├── model/ → Student.java
+
+│ ├── controller/ → StudentController.java
+
+│ ├── service/ → StudentService.java
+
+│ ├── repository/ → StudentRepository.java
+
+│ └── StudentManagementApplication.java
+
+│
+
+├── frontend/
+
+│ ├── registration.html → Add Student
+
+│ ├── update.html → Update Student
+
+│ ├── view.html → View Students
+
+│ └── delete.html → Delete Student
+│
+
+├── pom.xml
+
+└── README.md
 
 
-A simple web application for managing student data. Built using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend. This system allows users to register, view, update, and delete student records.
 
-# 📌 Features
-📋 Register Students
+---
 
-Add new students with full personal and academic details.
+## ✨ Features
 
-🔍 View Students
-
-Fetch and display all student data in a dynamic table.
-
-✏️ Update Info
-
-Update existing student information based on Student ID.
-
-🗑️ Delete Students
-
-Remove student records securely by ID.
-
-# 🧠 Technologies Used
-Backend: Spring Boot, Java
-Frontend: HTML, CSS, JavaScript (Vanilla)
-Data Format: JSON
-HTTP Client: Fetch API
-
-# 📌 Features
-📋 Register Students
-Add new students with full personal and academic details.
-
-🔍 View Students
-Fetch and display all student data in a dynamic table.
-
-✏️ Update Info
-Update existing student information based on Student ID.
-
-🗑️ Delete Students
-Remove student records securely by ID.
+- 🔹 Add New Student
+- 
+- 🔹 View All Students
+- 
+- 🔹 Update Student Info
+- 
+- 🔹 Delete Student Record
+- 
+- 🔹 Responsive frontend UI
+- 
+- 🔹 RESTful APIs
 
 # 🧠 Technologies Used
 
@@ -59,7 +72,7 @@ Email: prajktamore63@gmail.com
 
 GitHub link : https://github.com/prajkta2321/projectstud.git
 
-Enjoy using the Online Sports Management System ! 🚀
+# Enjoy using the Online Student Management System ! 🚀
 
 # 🖼️ Screenshots
 

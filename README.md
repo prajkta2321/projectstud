@@ -42,13 +42,9 @@ StudentManagementSystem/
 
 - 🔹 Add New Student 
 - 🔹 View All Students
-- 
 - 🔹 Update Student Info
-- 
 - 🔹 Delete Student Record
-- 
 - 🔹 Responsive frontend UI
-- 
 - 🔹 RESTful APIs
 
 # 🧠 Technologies Used

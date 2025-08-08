@@ -49,6 +49,18 @@ Data Format: JSON
 
 HTTP Client: Fetch API
 
+# Contact:
+
+For any questions or feedback, feel free to reach out:
+
+Your Name : Prajkta Prabhakar More , Pornima Kavade
+
+Email: prajktamore63@gmail.com
+
+GitHub:https://github.com/prajkta2321/Javafullstack.git
+
+Enjoy using the Online Sports Management System ! 🚀
+
 # 🖼️ Screenshots
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cf27153e-1c3d-48bd-b8a2-e35db5f5f29c" />

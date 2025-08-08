@@ -1,6 +1,7 @@
 # 🎓 Student Management System
 
 A modern full-stack **Student Management System** built using **Java Spring Boot (backend)** and **HTML/CSS/JS (frontend)**. Easily manage student records — register, update, view, and delete — in a responsive interface.
+
 ## 📂 Project Structure
 
 StudentManagementSystem/
@@ -89,4 +90,3 @@ GitHub link : https://github.com/prajkta2321/projectstud.git
 
 
 # Enjoy using the Online Student Management System ! 🚀
-jkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkljkl

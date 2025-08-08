@@ -57,7 +57,7 @@ Your Name : Prajkta Prabhakar More , Pornima Kavade
 
 Email: prajktamore63@gmail.com
 
-GitHub:https://github.com/prajkta2321/Javafullstack.git
+GitHub link : https://github.com/prajkta2321/projectstud.git
 
 Enjoy using the Online Sports Management System ! 🚀
 

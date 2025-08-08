@@ -69,8 +69,6 @@ Email: prajktamore63@gmail.com
 
 GitHub link : https://github.com/prajkta2321/projectstud.git
 
-# Enjoy using the Online Student Management System ! 🚀
-
 # 🖼️ Screenshots
 
 # 🏠 Home Page

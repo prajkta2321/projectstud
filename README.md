@@ -1,4 +1,4 @@
-#🎓 Student Management System
+# Student Management System
 
 
 A simple web application for managing student data. Built using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend. This system allows users to register, view, update, and delete student records.

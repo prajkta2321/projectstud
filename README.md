@@ -1,1 +1,1 @@
-# projectstud
+# Student Management System

@@ -40,8 +40,7 @@ StudentManagementSystem/
 
 ## ✨ Features
 
-- 🔹 Add New Student
-- 
+- 🔹 Add New Student 
 - 🔹 View All Students
 - 
 - 🔹 Update Student Info

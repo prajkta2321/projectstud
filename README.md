@@ -1,4 +1,4 @@
-# Student Management System
+# 🎓Student Management System
 
 
 A simple web application for managing student data. Built using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend. This system allows users to register, view, update, and delete student records.
@@ -21,7 +21,7 @@ Update existing student information based on Student ID.
 Remove student records securely by ID.
 
 # 🚀 Live UI Demo
-🔗 Live GitHub Hosted Link: https://nikhil-vyavahare.github.io/student_management_fullstack/
+🔗 Live GitHub Hosted Link:http://127.0.0.1:5500/student/index.html
 
 # 🧠 Technologies Used
 Backend: Spring Boot, Java
